@@ -21,13 +21,13 @@ Capatilazação  de mercado
 Calculada multiplicando o preço atual da ação pelo número total de ações em circulação.
 Sendo assim, é posssivel analisar se estão estabelecidas e sólidas. Elas podem ter uma presença mais significativa no mercado e podem ser consideradas menos arriscadas por investidores.
 
- !['top20acao']()
+ !['top20acao']('https://github.com/lucasbergamo/gartner_data_analytics/blob/main/top20acao.png')
 
 
 
 Visuazação da variação dos preços de fechamento ao longo do tempo.
 Atraves deste gráfico, é possivel identificar tendências, sazonalidades e padrões.
 
- !['fechamentoAnual']()
+ !['fechamentoAnual'](https://github.com/lucasbergamo/gartner_data_analytics/blob/main/fechamentoAnual.png)
 
 
