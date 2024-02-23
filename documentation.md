@@ -21,7 +21,7 @@ Capatilazação  de mercado
 Calculada multiplicando o preço atual da ação pelo número total de ações em circulação.
 Sendo assim, é posssivel analisar se estão estabelecidas e sólidas. Elas podem ter uma presença mais significativa no mercado e podem ser consideradas menos arriscadas por investidores.
 
- !['top20acao']('https://github.com/lucasbergamo/gartner_data_analytics/blob/main/top20acao.png')
+ !['top20acao'](https://github.com/lucasbergamo/gartner_data_analytics/blob/main/top20acao.png)
 
 
 
