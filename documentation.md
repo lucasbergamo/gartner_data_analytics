@@ -41,7 +41,7 @@ Calculada multiplicando o preço atual da ação pelo número total de ações e
 
 Sendo assim, é possível analisar se estão estabelecidas e sólidas. Elas podem ter uma presença mais significativa no mercado e podem ser consideradas menos arriscadas por investidores. 
 
- !['top20acao']() 
+ !['top20acao'](https://github.com/lucasbergamo/gartner_data_analytics/blob/main/top20acao.png) 
 
  
 
@@ -51,7 +51,7 @@ Através deste gráfico, é possível identificar tendências, sazonalidades e p
 
  
 
- !['fechamentoAnual']() 
+ !['fechamentoAnual'](https://github.com/lucasbergamo/gartner_data_analytics/blob/main/fechamentoAnual.png) 
 
  
 
