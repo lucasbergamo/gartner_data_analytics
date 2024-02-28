@@ -14,7 +14,7 @@ _OBS: Todas as informações estão abertas p/ edições ..._
 ---
 
 - Qual informação principal a gente que mostrar? <br> 
-Comportamento financeiro de 49 empresas <br>
+Comportamento financeiro de 49 empresas pré, durante e pós pandemia de COVID <br>
 - Público que terá acesso, o que vão procurar? <br> 
 Qual setor foi mais prejudicado, quem conseguiu superar ? <br>
   
@@ -40,9 +40,9 @@ Informações dataset:  <br>
   
 ### *ideia*
   _criar uma aba(no dash) resumo:_ <br>
-  _expor as empreas ou setor que mais sofreu no periodo pandemia_ <br>
+  _expor as empresas ou setor que mais sofreu no periodo pandemia_ <br>
   _criar uma aba alta = inverso da citação anterior_ <br>
-  
+  _criar dashs filtrando por data de pré, durante e pós pandemia
 --- 
 <br> 
   
