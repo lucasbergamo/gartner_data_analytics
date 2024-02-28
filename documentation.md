@@ -39,10 +39,10 @@ Informações dataset:  <br>
 - Tipo de dados: string, inteiro, data  <br>
   
 ### *ideia*
-  _criar uma aba(no dash) resumo:_ <br>
-  _expor as empresas ou setor que mais sofreu no periodo pandemia_ <br>
-  _criar uma aba alta = inverso da citação anterior_ <br>
-  _criar dashs filtrando por data de pré, durante e pós pandemia
+  - _criar uma aba(no dash) resumo:_ <br>
+  - _expor as empresas ou setor que mais sofreu no periodo pandemia_ <br>
+  - _criar uma aba alta = inverso da citação anterior_ <br>
+  - _criar dashs filtrando por data de pré, durante e pós pandemia
 --- 
 <br> 
   
